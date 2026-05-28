@@ -44,7 +44,7 @@ Built with zero frameworks, zero build tools, zero dependencies — just pure HT
 
 ## 🔗 Live Demo
 
-> Deploy to GitHub Pages (see [Deployment](#-deployment) below) and paste your URL here.
+> Click on the URL below to see the live demo.
 
 ```
 https://she-can-lets-unite.vercel.app/
