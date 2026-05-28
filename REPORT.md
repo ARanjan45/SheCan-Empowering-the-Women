@@ -439,6 +439,6 @@ The following features can be added as the organisation grows:
 
 ---
 
-*This report was prepared as part of the She Can Foundation Tech Internship application by Aprajita Ranjan (Riya), B.Tech CSE (AI & ML), VIT Bhopal University — Registration No. 23BAI11399.*
+*This report was prepared as part of the She Can Foundation Tech Internship application by Aprajita Ranjan*
 
 *The website was built entirely from scratch using vanilla HTML, CSS, and JavaScript — no templates, no frameworks, no AI-generated boilerplate. Every design decision was made with the organisation's mission and the women it serves at the centre.*

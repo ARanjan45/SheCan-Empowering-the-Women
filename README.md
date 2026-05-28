@@ -301,10 +301,8 @@ emailjs.send("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", {
 
 ## 👩‍💻 About the Developer
 
-**Aprajita Ranjan (Riya)**
+**Aprajita Ranjan**
 B.Tech CSE (AI & ML) | VIT Bhopal University
-Registration No.: 23BAI11399 | Graduating 2027
-
 - Built as part of the She Can Foundation Web Development Internship selection task
 - Designed and coded entirely from scratch — no templates, no frameworks
 - Every feature was built with She Can Foundation's mission at the centre
