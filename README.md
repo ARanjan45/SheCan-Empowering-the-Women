@@ -47,7 +47,7 @@ Built with zero frameworks, zero build tools, zero dependencies — just pure HT
 > Deploy to GitHub Pages (see [Deployment](#-deployment) below) and paste your URL here.
 
 ```
-https://yourusername.github.io/shecan-foundation/
+https://she-can-lets-unite.vercel.app/
 ```
 
 ---
