@@ -1,7 +1,6 @@
 # She Can Foundation — Website Development Report
 
-**Prepared by:** Aprajita Ranjan (Riya)
-**Registration No.:** 23BAI11399 — VIT Bhopal University
+**Prepared by:** Aprajita Ranjan
 **Submission:** She Can Foundation Tech Internship — Web Development Task
 **Date:** May 2026
 
